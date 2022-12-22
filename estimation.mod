@@ -117,15 +117,15 @@ tauZe    = 4.1079;
 psiu     = 1;
 
 % Adjustment elasticities:
-phiWE    = 0.4645;
-phiWP    = 0.6809;
-xiELe    = 0.8659;
+phiWE    = 0.2;
+phiWP    = 0.3;
+xiELe    = 0.95;
 phiCY    = -0.1656;
 phiIY    = -0.0316;
-phiRP    = 1.7332; %Try with lower phiRP and not lagged!
-phiRY    = 0.1720;
-phidRP   = 0.3120;
-phidRY   = 0.1375;
+phiRP    = 1.68; 
+phiRY    = 0.21;
+phidRP   = -0.03;
+phidRY   = 0.03;
 
 % Taxes, transfers, and tax rates: OECD Revenue Statistics 2017: Tax/GDP is 25% https://data.oecd.org/tax/tax-revenue.htm#indicator-chart
 tC       = 0.16;    %Taxes on goods and services are 11% of GDP
@@ -664,7 +664,7 @@ sigSZ,1.75,,,             gamma_pdf,             0.9,   0.15;
 sigL,1.77,,,              gamma_pdf,             2,     0.5;
 sigY,0.03,,,              gamma_pdf,             0.3,   0.1;
 sigSF,0.23,,,             gamma_pdf,             0.4,   0.15;
-sigKZ,2.97,,,             gamma_pdf,             3,     0.25;
+sigKZ,2.97,,,             gamma_pdf,             3,     0.5;
 sigZ,0.98,,,              gamma_pdf,             0.9,   0.05;
 sigER,0.27,,,             gamma_pdf,             0.3,   0.1;
 sigEF,0.38,,,             gamma_pdf,             0.3,   0.1;
@@ -679,14 +679,14 @@ tauO,2.81,,,              gamma_pdf,             5,     1;
 tauZe,4.28,,,             gamma_pdf,             5,     1;
 psiu,3.64,,,              normal_pdf,            2,     1;
 xiELe,0.95,,,             beta_pdf,              0.5,   0.15;
-phiWE,0.23,,,             normal_pdf,            0.4,   0.25;
-phiWP,0.30,,,             normal_pdf,            0.4,   0.25;
-phiCY,-0.16,,,            normal_pdf,            0,     0.1;
-phiIY,-0.03,,,            normal_pdf,            0,     0.1;
-phiRP,1.68,,,             normal_pdf,            1.7,   0.1;
-phidRP,-0.03,,,           normal_pdf,            0.3,   0.1;
-phiRY,0.21,,,             normal_pdf,            0.125, 0.05;
-phidRY,0.03,,,            normal_pdf,            0.0625,0.05;
+%phiWE,0.23,,,             normal_pdf,            0.4,   0.2;
+%phiWP,0.30,,,             normal_pdf,            0.4,   0.2;
+%phiCY,-0.16,,,            normal_pdf,            0,     0.1;
+%phiIY,-0.03,,,            normal_pdf,            0,     0.1;
+%phiRP,1.68,,,             normal_pdf,            1.7,   0.1;
+%phidRP,-0.03,,,           normal_pdf,            0.3,   0.1;
+%phiRY,0.21,,,             normal_pdf,            0.125, 0.05;
+%phidRY,0.03,,,            normal_pdf,            0.0625,0.05;
 rhog,0.64,,,              beta_pdf,              0.5,   0.1;
 rhoW,0.75,,,              beta_pdf,              0.5,   0.1;
 rhoWI,0.74,,,             beta_pdf,              0.5,   0.1;
