@@ -1,152 +1,208 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Remzi Baris Tercioglu",
+    "label": "Economist",
+    "email": "rtercioglu@worldbank.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://baristercioglu.github.io",
+    "summary": "Economist at the World Bank focused on macroeconomic modeling, climate macroeconomics, fiscal policy, and forecasting.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Washington",
       "countryCode": "US",
-      "region": ""
+      "region": "DC"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "baristercioglu",
+        "url": "https://github.com/baristercioglu"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "World Bank, Macro and Debt Unit, Economic Policy Global Practice",
+      "position": "Economist",
+      "startDate": "Apr 2025",
+      "endDate": "Present",
+      "summary": "Develop and apply semi-structural macroeconomic models for stabilization policy, global imbalances, and international spillovers.",
+      "highlights": [
+        "Design stochastic simulation frameworks to assess climate, fiscal, and external risks under alternative policy and global shock scenarios.",
+        "Contribute to the architecture of medium-term macro-fiscal projection systems used by World Bank country teams and Ministries of Finance.",
+        "Provide technical training to Ministries of Finance in Argentina, Chile, and Mexico on macroeconomic modeling and forecasting."
+      ]
+    },
+    {
+      "company": "World Bank, Jobs and Economic Growth Unit, Economic Policy Global Practice",
+      "position": "Research Analyst",
+      "startDate": "Nov 2023",
+      "endDate": "Mar 2025",
+      "summary": "Developed multi-sector semi-structural macroeconomic models to quantify the macroeconomic and labor market impacts of climate transition policies.",
+      "highlights": [
+        "Implemented counterfactual policy simulations for Country Climate and Development Reports covering Sri Lanka, Belize, the Kyrgyz Republic, and Maldives."
+      ]
+    },
+    {
+      "company": "World Bank, Fiscal Policy and Sustainable Growth Unit, Macroeconomics, Trade and Investment Global Practice",
+      "position": "Extended Term Consultant",
+      "startDate": "May 2022",
+      "endDate": "Oct 2023",
+      "summary": "Designed and estimated open-economy DSGE models using Bayesian methods to assess climate-fiscal reforms and net-zero transition strategies in emerging markets.",
+      "highlights": [
+        "Performed quantitative policy analysis and counterfactual simulations under alternative fiscal consolidation and carbon pricing scenarios."
+      ]
+    },
+    {
+      "company": "World Bank, Chief Economist Office, Equitable Growth, Finance and Institutions Vice Presidency",
+      "position": "Short Term Consultant",
+      "startDate": "Feb 2021",
+      "endDate": "Apr 2022",
+      "summary": "Estimated fiscal multipliers using time-series and panel econometric methods.",
+      "highlights": [
+        "Contributed to the methodological development of the Climate Policy Assessment Tool (CPAT) for evaluating the macroeconomic impacts of climate policies."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "New School for Social Research, New York",
+      "area": "Ph.D., Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "May 2021",
+      "gpa": null,
+      "courses": [
+        "Dissertation: A Sectoral Approach to Measuring U.S. Growth, Inequality, and the Output Gap",
+        "Fields: Macroeconomics and Econometrics"
+      ]
+    },
+    {
+      "institution": "New School for Social Research, New York",
+      "area": "M.Phil., Economics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Aug 2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Middle East Technical University, Ankara",
+      "area": "M.Sc., Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "July 2016",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Thesis: An Evaluation of the Trilemma: Global Constraints on Monetary Policy in the Post-Bretton Woods Era"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Middle East Technical University, Ankara",
+      "area": "B.Sc., Mathematics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "Jan 2011",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research Fields",
+      "keywords": [
+        "Macroeconomic Modeling",
+        "Structural and Semi-Structural Models",
+        "Climate Macroeconomics",
+        "Fiscal Policy",
+        "Open-Economy Dynamics",
+        "Forecasting",
+        "Business Cycles"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "MATLAB/Dynare",
+        "EViews",
+        "R",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Awards and Fellowships",
+      "keywords": [
+        "Frieda Wunderlich Award for Outstanding Dissertation by an International Student (2021)",
+        "Dissertation Fellowship (2019-2020)",
+        "Provost Scholarship (2016-2018)",
+        "Scientific and Technological Research Council of Turkey Scholarship (2006-2010)"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A Climate-Fiscal Policy Mix to Achieve Turkiye's Net-Zero Ambition under Feasibility Constraints",
+      "publisher": "European Journal of Economics and Economic Policies, 21(2), 331-359",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "With Christian Schoder."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "A Sectoral Approach to Measuring the Output Gap: Evidence from 20 U.S. Sectors, 1948-2020",
+      "publisher": "Macroeconomic Dynamics, 27(4), 1115-1137",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Rethinking Growth and Inequality in the U.S.: The Role of GDP Measurement",
+      "publisher": "International Review of Applied Economics, 35(3-4), 551-576",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "OMEGA: An Open-Economy Multi-Sector Endogenous-Growth Model for Climate Policy Analysis in Emerging Markets",
+      "publisher": "SSRN Working Paper",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "With Christian Schoder."
+    },
+    {
+      "name": "Beyond Aggregates: A Sector-Specific Framework for Long-Term Growth Modeling",
+      "publisher": "World Bank Policy Research Working Paper No. 11127",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "With Charl Jooste."
+    },
+    {
+      "name": "Forecast Sensitivity to Global Shocks: A Global VAR Analysis",
+      "publisher": "World Bank Policy Research Working Paper No. 11132",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "With Heather Ruberl and Adam Elderfield."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "A Climate-Fiscal Policy Mix to Achieve Turkiye's Net-Zero Ambition under Feasibility Constraints",
+      "event": "Joint World Bank-IMF Seminar Series on Climate Macroeconomics",
+      "date": "2023-01-01",
+      "location": "Washington, DC",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Employment Impact of Energy Taxes",
+      "event": "World Bank ESMAP/ESRF-MTI Workshop",
+      "date": "2022-01-01",
+      "location": "Washington, DC",
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }

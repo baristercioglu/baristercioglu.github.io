@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Remzi Baris Tercioglu"
 title_separator          : "-"
 name                     : &name "Remzi Baris Tercioglu"
-description              : &description "Macro modeler | World Bank"
+description              : &description "Economist at the World Bank focused on macroeconomic modeling, climate macroeconomics, and fiscal policy."
 url                      : "https://baristercioglu.github.io"
 baseurl                  : ""
 repository               : "baristercioglu/baristercioglu.github.io"
@@ -14,7 +14,7 @@ author:
   avatar                 : "profile.png"
   name                   : "Remzi Baris Tercioglu"
   pronouns               :
-  bio                    : "Macro modeler at the World Bank working on global macroeconomic modeling, climate risks, and fiscal policy."
+  bio                    : "Economist at the World Bank working on macroeconomic modeling, climate macroeconomics, fiscal policy, and forecasting."
   location               : "Washington, DC"
   employer               : "World Bank"
   uri                    :
@@ -75,6 +75,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  workingpapers:
+    title: 'Working Papers'
   conferences:
     title: 'Conference Papers'
 
