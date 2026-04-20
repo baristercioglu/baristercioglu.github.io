@@ -7,6 +7,7 @@ excerpt: "With Christian Schoder. European Journal of Economics and Economic Pol
 date: 2024-01-01
 venue: "European Journal of Economics and Economic Policies"
 citation: "Tercioglu, Remzi Baris, and Christian Schoder. (2024). &quot;A Climate-Fiscal Policy Mix to Achieve Turkiye's Net-Zero Ambition under Feasibility Constraints.&quot; <i>European Journal of Economics and Economic Policies</i>, 21(2), 331-359."
+paperurl: "https://www.elgaronline.com/view/journals/ejeep/21/2/article-p331.xml"
 ---
 
 Coauthored article on climate-fiscal policy design for achieving Turkiye's net-zero ambition under feasibility constraints.
