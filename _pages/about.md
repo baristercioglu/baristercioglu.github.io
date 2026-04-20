@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist in the Macro and Debt Unit of the Economic Policy Global Practice at the World Bank in Washington, DC. My work focuses on macroeconomic modeling, climate macroeconomics, fiscal policy, forecasting, and open-economy dynamics.
+I am an Economist in the Macro and Debt Unit of the Economic Policy Global Practice at the World Bank in Washington, DC. My work focuses on macroeconomic modeling, climate macroeconomics, forecasting, and open-economy dynamics.
 
 I develop and apply semi-structural and structural macroeconomic models for stabilization policy, global imbalances, and international spillovers. I also design stochastic simulation frameworks to assess climate, fiscal, and external risks under alternative policy and global shock scenarios. In recent work, I have contributed to medium-term macro-fiscal projection systems used by World Bank country teams and Ministries of Finance, and provided technical training on macroeconomic modeling and forecasting.
 
