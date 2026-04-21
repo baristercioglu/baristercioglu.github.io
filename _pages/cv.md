@@ -13,12 +13,12 @@ Employment
 ======
 
 **Apr 2025 - Present**  
-**Economist**, Macro and Debt Unit, Economic Policy Global Practice, World Bank, Washington, DC  
-Develop and apply semi-structural macroeconomic models for stabilization policy, global imbalances, and international spillovers. Design stochastic simulation frameworks to assess climate, fiscal, and external risks under alternative policy and global shock scenarios. Contribute to the architecture of medium-term macro-fiscal projection systems used by World Bank country teams and Ministries of Finance. Provide technical training to Ministries of Finance in Argentina, Chile, and Mexico on macroeconomic modeling and forecasting.
+**Economist**, Debt Sustainability and Debt Management Unit, Fiscal Policy and Growth Global Practice, World Bank, Washington, DC  
+Develop and apply semi-structural macroeconomic models for stabilization policy, global imbalances, and international spillovers. Design stochastic simulation frameworks to assess climate, fiscal, and external risks under alternative policy and global shock scenarios. Contribute to the architecture of medium-term macro-fiscal projection systems used by World Bank country teams and Ministries of Finance. Provide technical training to Ministries of Finance in Argentina, Chile, Mexico and Bolivia on macroeconomic modeling and forecasting.
 
 **Nov 2023 - Mar 2025**  
 **Research Analyst**, Jobs and Economic Growth Unit, Economic Policy Global Practice, World Bank, Washington, DC  
-Developed multi-sector semi-structural macroeconomic models to quantify the macroeconomic and labor market impacts of climate transition policies. Implemented counterfactual policy simulations for Country Climate and Development Reports covering Sri Lanka, Belize, the Kyrgyz Republic, and Maldives.
+Developed multi-sector semi-structural macroeconomic models to quantify the macroeconomic and labor market impacts of climate transition policies. Implemented policy simulations for Country Climate and Development Reports covering Sri Lanka, Belize, the Kyrgyz Republic, and Maldives.
 
 **May 2022 - Oct 2023**  
 **Extended Term Consultant**, Fiscal Policy and Sustainable Growth Unit, Macroeconomics, Trade and Investment Global Practice, World Bank, Washington, DC  
@@ -26,7 +26,7 @@ Designed and estimated open-economy DSGE models using Bayesian methods to assess
 
 **Feb 2021 - Apr 2022**  
 **Short Term Consultant**, Chief Economist Office, Equitable Growth, Finance and Institutions Vice Presidency, World Bank, Washington, DC  
-Estimated fiscal multipliers using time-series and panel econometric methods. Contributed to the methodological development of the Climate Policy Assessment Tool (CPAT) for evaluating the macroeconomic impacts of climate policies.
+Estimated fiscal multipliers using time-series and panel econometric methods. Contributed to the development of the Climate Policy Assessment Tool (CPAT) for evaluating the macroeconomic impacts of climate policies.
 
 Education
 ======
@@ -64,6 +64,18 @@ Selected Presentations
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
+
+Teaching and Training
+======
+
+* **Technical training**, Ministries of Finance in Argentina, Chile, Mexico, and Bolivia  
+  Delivered training on macroeconomic modeling and forecasting in policy settings.
+* **Teaching Fellow**, Eugene Lang College of Liberal Arts, New York  
+  Quantitative Reasoning II (Spring 2021); Statistics for Social Sciences (Fall 2018, Fall 2019)
+* **Teaching Assistant**, The New School and New York University, New York  
+  Further Topics in Advanced Political Economy (Spring 2021); Math for Economics (Fall 2020); Ph.D. Microeconomics (Spring 2019, Spring 2020); M.A. Microeconomics (Fall 2019)
+* **Adjunct Lecturer**, New York City College of Technology, New York  
+  Macroeconomics (Fall 2018, Spring 2019, Fall 2020)
 
 Awards and Fellowships
 ======

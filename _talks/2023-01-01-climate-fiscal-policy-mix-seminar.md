@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Washington, DC"
 ---
 
-Selected presentation for the Joint World Bank-IMF Seminar Series on Climate Macroeconomics in Washington, DC.
+Selected presentation with Christian Schoder for the Joint World Bank-IMF Seminar Series on Climate Macroeconomics in Washington, DC.

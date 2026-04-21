@@ -11,8 +11,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
+
+  - title: "Blogs"
+    url: /blogs/
     
   - title: "CV"
     url: /cv/
