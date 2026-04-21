@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist in the Macro and Debt Unit of the Economic Policy Global Practice at the World Bank in Washington, DC. My work focuses on macroeconomic modeling, climate macroeconomics, forecasting, and open-economy dynamics.
+I am an Economist in the Debt Sustainability and Debt Management Unit of the Fiscal Policy and Growth Global Practice at the World Bank in Washington, DC. My work centers on short-run macroeconomic analysis, forecasting, and policy design, with broader interests in macroeconomic modeling, climate macroeconomics, uncertainty, and business cycle dynamics.
 
-I develop and apply semi-structural and structural macroeconomic models for stabilization policy, global imbalances, and international spillovers. I also design stochastic simulation frameworks to assess climate, fiscal, and external risks under alternative policy and global shock scenarios. In recent work, I have contributed to medium-term macro-fiscal projection systems used by World Bank country teams and Ministries of Finance, and provided technical training on macroeconomic modeling and forecasting.
+I build and apply structural and semi-structural macroeconomic models to analyze stabilization policy, global imbalances, and international spillovers. I also design stochastic simulation frameworks to evaluate climate, fiscal, and external risks under alternative policy choices and global shock scenarios.
 
-My research interests include macroeconomic modeling, structural and semi-structural models, climate macroeconomics, fiscal policy, open-economy dynamics, forecasting, and business cycles.
+My recent work has contributed to medium-term macro-fiscal projection systems used by World Bank country teams and Ministries of Finance, alongside technical training on macroeconomic modeling and forecasting. Across research and policy work, I am especially interested in developing practical analytical tools that help institutions make better decisions under uncertainty.
 
-Before joining the Macro and Debt Unit, I worked in the World Bank's Jobs and Economic Growth Unit, the Fiscal Policy and Sustainable Growth Unit, and the Chief Economist Office of the Equitable Growth, Finance and Institutions Vice Presidency. Across these roles, I worked on climate transition policy, DSGE and semi-structural modeling, fiscal multipliers, and applied policy analysis for emerging and developing economies.
+Before joining my current unit, I worked in the World Bank's Jobs and Economic Growth Unit, the Fiscal Policy and Sustainable Growth Unit, and the Chief Economist Office of the Equitable Growth, Finance and Institutions Vice Presidency. In these roles, I worked on climate transition policy, DSGE and semi-structural modeling, fiscal multipliers, and applied policy analysis for emerging and developing economies.
 
-You can find my publications, selected presentations, and CV through the navigation above.
+This site brings together my research, selected presentations, and CV.

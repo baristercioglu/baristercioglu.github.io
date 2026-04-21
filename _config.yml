@@ -11,7 +11,7 @@ repository               : "baristercioglu/baristercioglu.github.io"
 
 # Site Author
 author:
-  avatar                 : "profile.png"
+  avatar                 : "https://github.com/baristercioglu.png"
   name                   : "Remzi Baris Tercioglu"
   pronouns               :
   bio                    : "Economist at the World Bank working on macroeconomic modeling, forecasting, uncertainty, and climate macroeconomics."
