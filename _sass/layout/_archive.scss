@@ -90,6 +90,14 @@
    ========================================================================== */
 
 .list__item {
+  padding-left: 0.75em;
+  border-left: 3px solid transparent;
+  transition: border-left-color 0.2s ease-in-out;
+
+  &:hover {
+    border-left-color: var(--global-base-color);
+  }
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
